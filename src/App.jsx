@@ -10,7 +10,6 @@ import Contact from './components/contact/Contact'
 const App = () => {
   return (
     <>
-    <div>Devin Johnson Software Engineer</div>
     <Header />
     <Nav />
     <About />
