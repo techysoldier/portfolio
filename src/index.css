@@ -14,7 +14,7 @@
 :root{
   --color-bg: rgb(138, 69, 248);
   --color-bg-variant: #d89140;
-  --color-primary: #4db5ff; 
+  --color-primary: #f8f9fa; 
   --color-primary-variant: rgba(0, 143, 246, 0.815);
   --color-white: #fff; 
   --color-light: rgba(255, 255, 255, 0.6); 
@@ -119,16 +119,17 @@ img{
   }
   section{
     margin-top: 6rem;
+    height: 100vh;
   }
 }
 
-/* ======Media Queries (Devices)*/
+/* ======Media Queries (MDevices)*/
 
 @media screen and (max-width: 600px) {
   .container{
     width: var(--container-width-sm);
   }
   section{
-    margin-bottom: 2rem;
+    margin-bottom: 6rem;
   }
 }
