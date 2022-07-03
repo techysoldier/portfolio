@@ -31,6 +31,16 @@ const About = () => {
               <small>15+ Projects Completed</small>
             </article>
           </div>
+
+
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto blanditiis adipisci, mollitia, 
+            earum quas totam optio tempora quaerat, quibusdam eligendi eaque fugiat ipsam sapiente expedita 
+            voluptatibus error. Ipsum, facere commodi?
+          </p>
+
+        
+          <a href ="#contact" className='btn'> Let's Chat</a>
         </div>
       </div>
     </section>
