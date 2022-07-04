@@ -34,17 +34,14 @@ const About = () => {
 
             <article className='about__card'>
               <IoSchoolOutline className='about__icon'/>
-              <h5>Training</h5>
-              <small>DevCodeCamp Full Stack Development Course</small>
+              <h5>Tools and Technologies</h5>
+              <small>Python | JavaScript | HTML | CSS | React.js | Django | JSON </small>
             </article>
           </div>
-
-
-          <p>
-            Devin Symone Johnson completed a full stack software development course with DevCode Camp in 2022. 
-            She comes from a military and first responder background. She has always had an interest in technology,
-            and decided to try her hand at coding. After self teaching for a few months she decided to enroll in a program. 
-          </p>
+            <p>
+            Devin Johnson is a full stack software developer with a background in military service, law enforcement, and administration. 
+            Recently Devin graduated a Software Development course with DevCodeCamp and looks forward to breaking into the SDE industry.  
+            </p>
 
         
           <a href ="#contact" className='btn'> Let's Chat</a>

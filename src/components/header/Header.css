@@ -23,13 +23,13 @@ header{
 /* ==== Socials=======*/
 
 .header__socials {
-    display: fex;
+    display: flex;
     flex-direction: column;
     align-items: center;
     gap: 0.8rem;
     position: absolute;
     left: 0;
-    bottom: 3rem;
+    bottom: 6rem;
 
 }
 
@@ -58,7 +58,7 @@ header{
 
 /* ===== Scroll Down ======= */
 
-.scroll__down {
+.scroll_down {
     position: absolute;
     right: -2.3rem;
     bottom: 5rem;
