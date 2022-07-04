@@ -34,8 +34,9 @@ const About = () => {
 
             <article className='about__card'>
               <IoSchoolOutline className='about__icon'/>
-              <h5>Tools and Technologies</h5>
-              <small>Python | JavaScript | HTML | CSS | React.js | Django | JSON </small>
+              <h5>Education</h5>
+              <small>DevCodeCamp- Software Development Course</small>
+                
             </article>
           </div>
             <p>

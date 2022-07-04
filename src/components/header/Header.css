@@ -2,12 +2,14 @@ header{
     height: 100vh;
     padding-top: 7rem;
     overflow: hidden;
+    
 }
 
 .header__container{
     text-align: center;
     height: 100%;
     position: relative;
+    
 }
 
 
@@ -18,25 +20,25 @@ header{
     display: flex;
     gap: 1.2rem;
     justify-content: center;
+    
 }
 
 /* ==== Socials=======*/
 
 .header__socials {
-    display: flex;
-    flex-direction: column;
+    display: inline;
+    flex-direction:column-reverse;
     align-items: center;
     gap: 0.8rem;
+    margin-top: 3rem;
     position: absolute;
-    left: 0;
-    bottom: 6rem;
+   
 
 }
 
 .header__socials::after{
     content: "";
     width: 1px;
-    height: 2rem;
     background: var(--color-primary);
 }
 
